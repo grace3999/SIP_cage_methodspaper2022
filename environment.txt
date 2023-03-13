@@ -1,0 +1,14 @@
+name: SIP
+dependencies:
+  - python=3.6 
+  - numpy
+  - pandas
+  - datetime
+  - matplotlib
+  - seaborn
+  - scipy
+  - jupyter
+  - ipython
+  - nb_conda
+
+
